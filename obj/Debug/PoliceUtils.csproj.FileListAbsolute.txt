@@ -1,0 +1,140 @@
+C:\Users\Hugo Malaquin\source\repos\PoliceUtils\PoliceUtils\bin\Debug\PoliceUtils.dll
+C:\Users\Hugo Malaquin\source\repos\PoliceUtils\PoliceUtils\bin\Debug\PoliceUtils.pdb
+C:\Users\Hugo Malaquin\source\repos\PoliceUtils\PoliceUtils\bin\Debug\BestHTTP.dll
+C:\Users\Hugo Malaquin\source\repos\PoliceUtils\PoliceUtils\bin\Debug\CTNAudio.dll
+C:\Users\Hugo Malaquin\source\repos\PoliceUtils\PoliceUtils\bin\Debug\CTNLayer.dll
+C:\Users\Hugo Malaquin\source\repos\PoliceUtils\PoliceUtils\bin\Debug\CTNVorbis.dll
+C:\Users\Hugo Malaquin\source\repos\PoliceUtils\PoliceUtils\bin\Debug\DissonanceVoip.dll
+C:\Users\Hugo Malaquin\source\repos\PoliceUtils\PoliceUtils\bin\Debug\Facepunch.Steamworks.Win64.dll
+C:\Users\Hugo Malaquin\source\repos\PoliceUtils\PoliceUtils\bin\Debug\kcp2k.dll
+C:\Users\Hugo Malaquin\source\repos\PoliceUtils\PoliceUtils\bin\Debug\Mirror.Authenticators.dll
+C:\Users\Hugo Malaquin\source\repos\PoliceUtils\PoliceUtils\bin\Debug\Mirror.Cloud.dll
+C:\Users\Hugo Malaquin\source\repos\PoliceUtils\PoliceUtils\bin\Debug\Mirror.Components.dll
+C:\Users\Hugo Malaquin\source\repos\PoliceUtils\PoliceUtils\bin\Debug\Mirror.Examples.Cloud.GUI.dll
+C:\Users\Hugo Malaquin\source\repos\PoliceUtils\PoliceUtils\bin\Debug\Mirror.Examples.Cloud.Pong.dll
+C:\Users\Hugo Malaquin\source\repos\PoliceUtils\PoliceUtils\bin\Debug\Mirror.Examples.dll
+C:\Users\Hugo Malaquin\source\repos\PoliceUtils\PoliceUtils\bin\Debug\Mono.Data.Sqlite.dll
+C:\Users\Hugo Malaquin\source\repos\PoliceUtils\PoliceUtils\bin\Debug\Mono.Posix.dll
+C:\Users\Hugo Malaquin\source\repos\PoliceUtils\PoliceUtils\bin\Debug\Mono.Security.dll
+C:\Users\Hugo Malaquin\source\repos\PoliceUtils\PoliceUtils\bin\Debug\Mono.WebBrowser.dll
+C:\Users\Hugo Malaquin\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Hugo Malaquin\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\Hugo Malaquin\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.UI.dll
+C:\Users\Hugo Malaquin\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\Hugo Malaquin\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\Hugo Malaquin\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\Hugo Malaquin\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\Hugo Malaquin\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\Hugo Malaquin\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\Hugo Malaquin\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\Hugo Malaquin\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Hugo Malaquin\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\Hugo Malaquin\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\Hugo Malaquin\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\Hugo Malaquin\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\Hugo Malaquin\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\Hugo Malaquin\source\repos\PoliceUtils\PoliceUtils\obj\Debug\PoliceUtils.csproj.AssemblyReference.cache
+C:\Users\Hugo Malaquin\source\repos\PoliceUtils\PoliceUtils\obj\Debug\PoliceUtils.csproj.CoreCompileInputs.cache
+C:\Users\Hugo Malaquin\source\repos\PoliceUtils\PoliceUtils\obj\Debug\PoliceUtils.csproj.CopyComplete
+C:\Users\Hugo Malaquin\source\repos\PoliceUtils\PoliceUtils\obj\Debug\PoliceUtils.dll
+C:\Users\Hugo Malaquin\source\repos\PoliceUtils\PoliceUtils\obj\Debug\PoliceUtils.pdb
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\PoliceUtils.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\PoliceUtils.pdb
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.PhysicsModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.AnimationModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.UI.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.UIModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.AudioModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.AIModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.IMGUIModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.InputLegacyModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.Physics2DModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.TextRenderingModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.ImageConversionModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.AssetBundleModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.SharedInternalsModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.TilemapModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.SpriteShapeModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.GridModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\obj\Debug\PoliceUtils.csproj.AssemblyReference.cache
+F:\source\repos\PoliceUtils\PoliceUtils\obj\Debug\PoliceUtils.csproj.CoreCompileInputs.cache
+F:\source\repos\PoliceUtils\PoliceUtils\obj\Debug\PoliceUtils.csproj.CopyComplete
+F:\source\repos\PoliceUtils\PoliceUtils\obj\Debug\PoliceUtils.dll
+F:\source\repos\PoliceUtils\PoliceUtils\obj\Debug\PoliceUtils.pdb
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\Assembly-CSharp-firstpass.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\Assembly-CSharp.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\BestHTTP.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\CTNAudio.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\CTNLayer.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\CTNVorbis.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\DissonanceVoip.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\Facepunch.Steamworks.Win64.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\kcp2k.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\Mirror.Authenticators.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\Mirror.Cloud.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\Mirror.Components.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\Mirror.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\Mirror.Examples.Cloud.GUI.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\Mirror.Examples.Cloud.Pong.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\Mirror.Examples.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\Mono.Data.Sqlite.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\Mono.Posix.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\Mono.Security.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\Mono.WebBrowser.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\Unity.TextMeshPro.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\Unity.Timeline.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.ARModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.ClothModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.ClusterInputModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.ClusterRendererModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.CoreModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.CrashReportingModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.DirectorModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.DSPGraphModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.GameCenterModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.GIModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.HotReloadModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.InputModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.JSONSerializeModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.LocalizationModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.ParticleSystemModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.ProfilerModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.SpriteMaskModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.StreamingModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.SubstanceModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.SubsystemsModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.TerrainModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.TextCoreModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.TLSModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.UIElementsModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.UIElementsNativeModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.UmbraModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.UNETModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.UnityConnectModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.UnityCurlModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.VehiclesModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.VFXModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.VideoModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.VirtualTexturingModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.VRModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.WindModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.XRModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\Unity.Postprocessing.Runtime.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\NodeListServer.UnityIntegration.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\Newtonsoft.Json.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\Telepathy.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.AndroidJNIModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\UnityEngine.AccessibilityModule.dll
+F:\source\repos\PoliceUtils\PoliceUtils\bin\Debug\where-allocations.dll
